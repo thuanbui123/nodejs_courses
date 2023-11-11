@@ -1,5 +1,6 @@
 .vscode
 
-public/css/
+src/public/css/
+src/public/css/app.css.map
 
 node_modules/
